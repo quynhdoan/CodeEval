@@ -1,5 +1,5 @@
 These files can be used to solve the problems located at http://www.codeeval.com/. Some problems have solution in both C++ and Python (2.7). These programs might not compile in Visual Studio or any other compiler because they were specifically written to work on CodeEval. 
 
-This program is free and released under the terms of the GNU General Public License. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS 
-FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+These programs are free and released under the terms of the GNU General Public License. These programs are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
 Copyright (C) 2011 by Quynh Doan.
