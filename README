@@ -1,4 +1,4 @@
-These files are used to solve the problems located at http://www.codeeval.com/. 
+These files can be used to solve the problems located at http://www.codeeval.com/. 
 Some problems have solutions in both C++ and Python (2.7). These programs 
 might not compile in Visual Studio or other IDE's because 
 they were written specifically to test on CodeEval. 
