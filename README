@@ -1,12 +1,8 @@
-These files can be used to solve the problems located at http://www.codeeval.com/. 
-Some problems have solutions in both C++ and Python (2.7). These programs 
-might not compile in Visual Studio or other IDE's because 
-they were written specifically to test on CodeEval. 
+These files can be used to solve the problems located at http://www.codeeval.com/.Some problems have solutions in both 
+C++ and Python (2.7). These programs might not compile in Visual Studio or other IDE's because  they were written 
+pecifically to work on CodeEval. 
 
-This program is free and released under the terms of the GNU General Public License 
-as published by the Free Software Foundation. This program is 
-distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
-without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
-See the GNU General Public License for more details.
-
+This program is free and released under the terms of the GNU General Public License as published by the Free Software 
+Foundation. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the 
+implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 Copyright (C) 2011 by Quynh Doan.
